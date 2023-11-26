@@ -12,13 +12,13 @@
    - Slides: https://docs.google.com/presentation/d/1WlWyiZAkUHnu0h8noCT9hjsShOdp33-lh2xfoHytTcc/edit?usp=sharing
    - Repository: https://github.com/supertestnet/learn-javascript
 
- - Lesson 1: Learn to setup your development environments
+ - Lesson 4: Learn to setup your development environments
    - Slides: https://docs.google.com/presentation/d/1mXp7dFQzVGE4sV9o8xYUW3woFWS5NzOUCbRyNrMWKl4/edit?usp=sharing
 
- - Lesson 1: Learn React
+ - Lesson 5: Learn React
    - Slides: https://docs.google.com/presentation/d/1CXdnCi_I0R-lPi1XKnvDN0QL3atSlurWApvfEXf1n2M/edit?usp=sharing
    - Repository: https://github.com/AustinKelsay/pleb-wallet-react
 
- - Lesson 1: Pleb Wallet Demo
+ - Lesson 6: Pleb Wallet Demo
    - Slides: https://docs.google.com/presentation/d/1CXdnCi_I0R-lPi1XKnvDN0QL3atSlurWApvfEXf1n2M/edit?usp=sharing
    - Repository: https://github.com/AustinKelsay/pleb-wallet-react
